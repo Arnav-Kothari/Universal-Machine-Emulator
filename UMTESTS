@@ -1,0 +1,12 @@
+add.um
+bitwise_nand.um
+cmov.um
+comprehensive.um
+division.um
+halt-verbose.um
+input.um
+load_program.um
+map_unmap.um
+multiply.um
+output.um
+sload_sstore.um
